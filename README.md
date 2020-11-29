@@ -1,6 +1,6 @@
 # Excel_VBA
 ---------------------
- Welcome to my Public EXCEL VBA respository!
+ Welcome to my Public EXCEL VBA Respository!
 ---------------------
  
 I am a geotechnical engineer in the transportation infrastructure field, and I have been developing Excel VBA programs for practical automation at work since 2010. In Summer of 
